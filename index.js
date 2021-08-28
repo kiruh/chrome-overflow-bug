@@ -7,6 +7,7 @@ function createWindow() {
     width: 600,
     height: 600,
     autoHideMenuBar: true,
+    frame: false,
   });
 
   // and load the index.html of the app.
